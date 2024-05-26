@@ -46,8 +46,8 @@ public class DemoEmployee {
 
     public static void main(String[] args) {
         EmpPersonalInfo epr = new EmpPersonalInfo();
-        epr.setEname("Amar Sinh");
-        epr.setEmailId("amars@mail.com");
+        epr.setEname("Rishabh Sinh");
+        epr.setEmailId("rs@mail.com");
         epr.setResaddr("paldi");
         epr.setMobileno(78954);
 
